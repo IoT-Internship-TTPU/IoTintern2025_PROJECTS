@@ -46,3 +46,10 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [AzizbekSattorov](https://github.com/Fienny);_
 
 ----------------------------------------------
+**6) :**
+* video: [youtube link]()
+* repo1: []()
+
+  * _@authors: I) []();_
+
+----------------------------------------------
