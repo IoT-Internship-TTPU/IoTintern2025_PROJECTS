@@ -7,14 +7,13 @@ It is a summary of projects and their corresponding repositories, which are rela
 ========================================================
 ## List of Final Capstone Projects
 
-**Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2024](https://youtube.com/playlist?list=PLfZEWICCEvhiUH3opOEUZHImOvAZeMI-n&si=s2XzRsTFLtT4ABgL)
+**Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2025](https://youtube.com/playlist?list=PLfZEWICCEvhj6wE635xIMkc52GOsgFS-q&feature=shared)
 
 ----------------------------------------------
-**1) IoT GPS Tracker:**
-* video: [youtube link](https://www.youtube.com/watch?v=JALXJPrFHJY)
-* repo1: [IoT GPS Tracker - Front End Web](https://github.com/ttpu/IoTintern2024_GPS_tracking_FrontEnd)
-* repo2: [IoT GPS Tracker - ESP32 PlatformIO](https://github.com/ttpu/IoTintern2024_GPS_tracking_PlatformIO)
+**1) ESP32 Door Status Notifier with MQTT and Telegram:**
+* video: [youtube link](https://youtu.be/JovxX4T7gno?feature=shared)
+* repo1: [ESP32 Door Status Notifier with MQTT and Telegram](https://github.com/IoT-Internship-TTPU/IoTintern2025_esp32_door_sensor_telegrambot)
 
-  * _@authors: I) [AbuBakrSobirov](https://github.com/Yunusiy);_
+  * _@authors: I) [EldorKhaitov](https://github.com/eldor9312);_
 
 ----------------------------------------------
