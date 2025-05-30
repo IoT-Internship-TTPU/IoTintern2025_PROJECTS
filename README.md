@@ -52,4 +52,10 @@ It is a summary of projects and their corresponding repositories, which are rela
 
   * _@authors: I) [Shuhratova Aziza](https://github.com/azizakha);_
               _II) [Abduxalilova Maftuna](https://github.com/Maftuna-bot);_
+    
 ----------------------------------------------
+**7) RealTime Temperature Monitor using ESP32 and website:**
+* video: [youtube link](https://youtu.be/2tdVwYFP4LE)
+* repo1: [RealTime Temperature Monitor using ESP32 and website](https://github.com/IoT-Internship-TTPU/IoTintern2025_RealTime_TemperatureMonitor_ESP32_website)
+
+  * _@authors: I) [Orifova Kamola](https://github.com/kamola18);_
