@@ -39,3 +39,10 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [AbdullohToliboev](https://github.com/LiGER3090);_
 
 ----------------------------------------------
+**5) Temperature Monitor using ESP32 and Telegram:**
+* video: [youtube link](https://youtu.be/e_IeFfKBmkA)
+* repo1: [Temperature Monitor using ESP32 and Telegram](https://github.com/IoT-Internship-TTPU/IoTintern2025_TemperatureMonitor_ESP32_Telegram)
+
+  * _@authors: I) [AzizbekSattorov](https://github.com/Fienny);_
+
+----------------------------------------------
