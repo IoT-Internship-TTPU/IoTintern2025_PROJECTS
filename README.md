@@ -17,3 +17,10 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [EldorKhaitov](https://github.com/eldor9312);_
 
 ----------------------------------------------
+**2) Smart Alarm ESP32:**
+* video: [youtube link](https://youtu.be/ZL2cfpvQs_4?feature=shared)
+* repo1: [Smart Alarm using ESP32](https://github.com/IoT-Internship-TTPU/IoTintern2025_SmartAlarmESP32)
+
+  * _@authors: I) [BekzodAhmedjanov](https://github.com/Ahmedjanov);_
+
+----------------------------------------------
