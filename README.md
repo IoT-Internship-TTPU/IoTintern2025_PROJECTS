@@ -32,3 +32,10 @@ It is a summary of projects and their corresponding repositories, which are rela
               _II) [Mansurxojayev Xojiakbar](https://github.com/mansuroff123);_
 
 ----------------------------------------------
+**4) Remote Switch ESP32 IoT:**
+* video: [youtube link](https://youtu.be/Q3qSzNw9b5E)
+* repo1: [Remote Switch ESP32 IoT](https://github.com/IoT-Internship-TTPU/IoTintern2025_RemoteSwitch_ESP32_IoT)
+
+  * _@authors: I) [AbdullohToliboev](https://github.com/LiGER3090);_
+
+----------------------------------------------
