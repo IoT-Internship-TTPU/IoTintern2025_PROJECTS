@@ -24,3 +24,11 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [BekzodAhmedjanov](https://github.com/Ahmedjanov);_
 
 ----------------------------------------------
+**3) AI based Hand Gesture Controlled IoT System:**
+* video: [youtube link](https://youtube.com/shorts/0gnkVAyKhhs?feature=shared)
+* repo1: [AI based Hand Gesture Controlled IoT System](https://github.com/IoT-Internship-TTPU/IoTintern2025_AI_handGesture_IOT_LED)
+
+  * _@authors: I) [Abduvahhobov Javohir](https://github.com/notlukas18);_
+  *           _II) [Mansurxojayev Xojiakbar](https://github.com/mansuroff123);_
+
+----------------------------------------------
