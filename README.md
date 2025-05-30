@@ -46,10 +46,10 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [AzizbekSattorov](https://github.com/Fienny);_
 
 ----------------------------------------------
-**6) :**
-* video: [youtube link]()
-* repo1: []()
+**6) Music LED with ESP32 IoT and TelegramBot:**
+* video: [youtube link](https://youtube.com/shorts/xZATAKJmtc8?feature=share)
+* repo1: [Music LED with ESP32 IoT and TelegramBot](https://github.com/IoT-Internship-TTPU/IoTintern2025_MusicLED_ESP32_IoT_TelegramBot)
 
-  * _@authors: I) []();_
-
+  * _@authors: I) [Shuhratova Aziza](https://github.com/azizakha);_
+              _II) [Abduxalilova Maftuna](https://github.com/Maftuna-bot);_
 ----------------------------------------------
