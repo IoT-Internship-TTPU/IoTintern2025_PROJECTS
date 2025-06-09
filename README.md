@@ -81,8 +81,8 @@ It is a summary of projects and their corresponding repositories, which are rela
 * repo2: [ESP32 PlatformIO project](https://github.com/IoT-Internship-TTPU/IoTintern2025_SmartHomeDashboard_ESP32PlatformIO)
 
   * _@authors: I) [Rahimjonov Muhammadjon](https://github.com/rahimjonovali);_
-              _II) [Yuldashev Khabibulloh]();_
-              _III) [Sunnatov Izzatulloh]();_
+              _II) [Yuldashev Khabibulloh];_
+              _III) [Sunnatov Izzatulloh];_
  
 ----------------------------------------------
 **11) IoT based RFID Attendance System:**
@@ -93,12 +93,12 @@ It is a summary of projects and their corresponding repositories, which are rela
  
 ----------------------------------------------
 **12) Smart Door Controller:**
-* video: [youtube link]()
+* video: [youtube link](https://youtube.com/shorts/Gq6a89zQQtA)
 * repo1: [Smart Door Controller - Web App](https://github.com/IoT-Internship-TTPU/IoTintern2025_door-Controller)
 * repo2: [ESP32 PlatformIO Project](https://github.com/IoT-Internship-TTPU/IoTintern2025_door-controller-C-)
 
   * _@authors: I) [Ikromjon Bakhtiyorov](https://github.com/Ikrom180);_
-              _II) [Khodjaev Nosirxoja]();_
+              _II) [Khodjaev Nosirxoja];_
  
 ----------------------------------------------
 **8) :**
