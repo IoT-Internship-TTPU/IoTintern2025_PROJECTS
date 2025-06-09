@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0373bf8-4acf-4b14-9d7d-85b794a9c6b9)# IoT Internship 2025 - PROJECTS
+# IoT Internship 2025 - PROJECTS
 
 This repository keeps the list of projects that are created during **"IoT Internship 2025"** course in TTPU, by students or by instructor.\
 It is a summary of projects and their corresponding repositories, which are related to the course of "**IoT Internship 2025**".
