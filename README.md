@@ -85,11 +85,20 @@ It is a summary of projects and their corresponding repositories, which are rela
               _III) [Sunnatov Izzatulloh]();_
  
 ----------------------------------------------
-**8) :**
-* video: [youtube link]()
-* repo1: []()
+**11) IoT based RFID Attendance System:**
+* video: [youtube link](https://youtu.be/P7bLnTQfYE8)
+* repo1: [IoT based RFID Attendance System](https://github.com/IoT-Internship-TTPU/IoTintern2025_IOT-Attendance)
 
-  * _@authors: I) []();_
+  * _@authors: I) [Karimjonov Badriddin](https://github.com/Badr1203);_
+ 
+----------------------------------------------
+**12) Smart Door Controller:**
+* video: [youtube link]()
+* repo1: [Smart Door Controller - Web App](https://github.com/IoT-Internship-TTPU/IoTintern2025_door-Controller)
+* repo2: [ESP32 PlatformIO Project](https://github.com/IoT-Internship-TTPU/IoTintern2025_door-controller-C-)
+
+  * _@authors: I) [Ikromjon Bakhtiyorov](https://github.com/Ikrom180);_
+              _II) [Khodjaev Nosirxoja]();_
  
 ----------------------------------------------
 **8) :**
