@@ -110,11 +110,9 @@ It is a summary of projects and their corresponding repositories, which are rela
               _II) [Komoliddinov Abdurahmon];_
  
 ----------------------------------------------
-**8) :**
-* video: [youtube link]()
-* repo1: []()
-* repo2: []()
+**14) IoT-Based Temperature and Humidity Monitoring System Using ESP32:**
+* video: [youtube link](https://youtube.com/shorts/2vNGRaGapYE)
+* repo1: [ESP32 Humidity Monitor MQTT - PlatformIO](https://github.com/IoT-Internship-TTPU/IoTintern2025_TempHumidity_ESP32_monitor)
 
-  * _@authors: I) [Dilshod Kudratov]();_
-              _II) [Komoliddinov Abdurahmon];_
+  * _@authors: I) [Akmalkhonov Shokhbozkhon](https://github.com/shuxa11);_
  
