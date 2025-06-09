@@ -61,14 +61,21 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [Orifova Kamola](https://github.com/kamola18);_
 
 ----------------------------------------------
-**8) :**
+**8) Air monitoring system with ESP32 and Bmp280:**
 * video: [youtube link](https://youtube.com/shorts/f8MQ62VObLg)
 * repo1: [Air monitoring system](https://github.com/IoT-Internship-TTPU/IoTintern2025_Air-monitoring-system)
 
   * _@authors: I) [Ibrokhimov Muslimbek](https://github.com/Muslimbek4);_
 
 ----------------------------------------------
-**9) :**
+**9) ESP32 Camera operated by Telegram Bot:**
+* video: [youtube link](https://youtube.com/shorts/1A83QaGgy3E)
+* repo1: [ESP32 Camera operated by Telegram Bot](https://github.com/IoT-Internship-TTPU/IoTintern2025_ESP32-CAM-Telegram-Bot)
+
+  * _@authors: I) [Nurillaev Elmurod](https://github.com/Elmurod121);_
+ 
+----------------------------------------------
+**8) :**
 * video: [youtube link]()
 * repo1: []()
 
