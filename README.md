@@ -75,6 +75,16 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [Nurillaev Elmurod](https://github.com/Elmurod121);_
  
 ----------------------------------------------
+**10) Smart Home IoT Dashboard:**
+* video: [youtube link](https://youtu.be/HbLnFFdLi8k)
+* repo1: [Dashboard Web App](https://github.com/IoT-Internship-TTPU/IoTintern2025_Smart-Home)
+* repo2: [ESP32 PlatformIO project](https://github.com/IoT-Internship-TTPU/IoTintern2025_SmartHomeDashboard_ESP32PlatformIO)
+
+  * _@authors: I) [Rahimjonov Muhammadjon](https://github.com/rahimjonovali);_
+              _II) [Yuldashev Khabibulloh]();_
+              _III) [Sunnatov Izzatulloh]();_
+ 
+----------------------------------------------
 **8) :**
 * video: [youtube link]()
 * repo1: []()
