@@ -1,4 +1,4 @@
-# IoT Internship 2025 - PROJECTS
+![image](https://github.com/user-attachments/assets/a0373bf8-4acf-4b14-9d7d-85b794a9c6b9)# IoT Internship 2025 - PROJECTS
 
 This repository keeps the list of projects that are created during **"IoT Internship 2025"** course in TTPU, by students or by instructor.\
 It is a summary of projects and their corresponding repositories, which are related to the course of "**IoT Internship 2025**".
@@ -59,3 +59,25 @@ It is a summary of projects and their corresponding repositories, which are rela
 * repo1: [RealTime Temperature Monitor using ESP32 and website](https://github.com/IoT-Internship-TTPU/IoTintern2025_RealTime_TemperatureMonitor_ESP32_website)
 
   * _@authors: I) [Orifova Kamola](https://github.com/kamola18);_
+
+----------------------------------------------
+**8) :**
+* video: [youtube link](https://youtube.com/shorts/f8MQ62VObLg)
+* repo1: [Air monitoring system](https://github.com/IoT-Internship-TTPU/IoTintern2025_Air-monitoring-system)
+
+  * _@authors: I) [Ibrokhimov Muslimbek](https://github.com/Muslimbek4);_
+
+----------------------------------------------
+**9) :**
+* video: [youtube link]()
+* repo1: []()
+
+  * _@authors: I) []();_
+ 
+----------------------------------------------
+**8) :**
+* video: [youtube link]()
+* repo1: []()
+
+  * _@authors: I) []();_
+ 
