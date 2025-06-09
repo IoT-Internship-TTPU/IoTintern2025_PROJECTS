@@ -101,9 +101,20 @@ It is a summary of projects and their corresponding repositories, which are rela
               _II) [Khodjaev Nosirxoja];_
  
 ----------------------------------------------
+**13) Smart Face Recognition:**
+* video: [youtube link](https://youtu.be/aoQPy_xi4zo)
+* repo1: [Smart Face Recognition - API](https://github.com/IoT-Internship-TTPU/IoTIntern2025_face_rek_API)
+* repo2: [Smart Face Recognition - ESP32 PlatformIO](https://github.com/IoT-Internship-TTPU/IoTintern2025_esp32_sd_facerecog)
+
+  * _@authors: I) [Dilshod Kudratov](https://github.com/whatziya);_
+              _II) [Komoliddinov Abdurahmon];_
+ 
+----------------------------------------------
 **8) :**
 * video: [youtube link]()
 * repo1: []()
+* repo2: []()
 
-  * _@authors: I) []();_
+  * _@authors: I) [Dilshod Kudratov]();_
+              _II) [Komoliddinov Abdurahmon];_
  
